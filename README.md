@@ -8,14 +8,14 @@
 | Twitter          | [@khiga619](https://mobile.twitter.com/khiga619)         |
 | Qiita            | [@KeisakuHiga](https://qiita.com/KeisakuHiga)            |
 | LinkedIn         | [@keisakuhiga](https://www.linkedin.com/in/keisakuhiga/) |
-| 英語力           | IELTS 6.5 (R:7.0, L:6.0, W:6.0, S:6.0) 2020 年 10 月時点 |
+| 英語             | IELTS 6.5 (R:7.0, L:6.0, W:6.0, S:6.0)                   |
 
 ## 技術経験
 
 |              | プログラミング言語               | フレームワーク                       | DB         | OS             | ブロックチェーン関連 | ツール                                                                  |
 | ------------ | -------------------------------- | ------------------------------------ | ---------- | -------------- | -------------------- | ----------------------------------------------------------------------- |
 | 実務         | Typescript, Javascript, Solidity | Node.js, Express, Vue, Nuxt, Truffle | Postgresql | Windows, Linux | Ethereum, Geth       | Github, VS Code, Slack, Zoom, Asana, Confluence, Share Point(Office365) |
-| プライベート | Ruby                             | Ruby on Rails, React                 | MongoDB    | MacOS          | Ganache, Infura      | Trello, Discord,                                                        |
+| プライベート | Ruby                             | Ruby on Rails, React                 | MongoDB    | MacOS          | Ganache, Infura      | Trello, Discord, Figma                                                  |
 
 ## 開発経験
 
@@ -29,15 +29,59 @@
 
 ## プロジェクト詳細
 
-## 主な業務経歴・開発プロジェクト経歴
+1. ### 水産物トレーサビリティーアプリケーション開発プロジェクト （2020 年 10 月〜2021 年 1 月 現在進行中）
+
+| 工程           | 担当業務内容  |
+| -------------- | ------------- |
+| 詳細設計       | ①API設計 <br>②画面設計 <br>③ |
+| プログラミング | ①API開発 <br>②画面開発 <br>③ |
+| 単体テスト     | ①テストケース洗い出し <br>②テスト実施 <br>③ |
+| 結合テスト     | ①テスト進捗管理（テストシナリオの割り振り） <br>②テスト実施方法の検討（実施シナリオ順の検討） <br>③ |
+
+【プロジェクト概要】
+
+- ブロックチェーン技術を利用して、水産物のトレーサビリティ、サステナブルな漁業を実現させることを目的としたプロジェクト。
+- フロントエンドに Vue.js、バックエンドに Node.js を採用。
+- 開発体制はリードエンジニアと４名のエンジニアがアプリ開発に従事している。
+- 開発の進め方は、設計者と実装者を分けるようにして各フェーズで（暗黙的に）相互チェックできる体制で開発が進められている。
+- 単体テストは開発者が各々実施するのだが、メンバーの開発経験が浅いこと、自動テストを導入するコスト・時間などを考慮し、手動で実施している。（近いうちに自動化の予定）
+- プレリリースでは、参照（GET）と登録（POST）の機能のみをスコープとし開発を進めている。
+
+【プログラミング言語/フレームワーク/ライブラリ/DB など】  
+ 　 Typescript, Node.js, Express.js, Vue.js, Nuxt.js, Postgresql
+
+【担当分野・実装した機能・実装方法】
+
+1.  詳細設計：API 仕様書、画面定義書の作成。
+1.  プログラミング：参照、登録の API 機能を実装。
+1.  テスト（単体）：
+1.  テスト（結合）：
+
+【発揮したバリュー】
+
+【直面した技術的課題とその解決手法】
+
+1.
+1.
+
+【チーム構成】
+
+- プロジェクトマネージャー 1 名
+- 企画・要件定義担当 1 名
+- デザイナー 1 名
+- リードエンジニア１名
+- インフラエンジニア 1 名
+- バックエンド＆フロントエンド４名（← 私はここ。）
 
 1. ### 某ブロックチェーンスタートアップの Dapps 受託開発（2019 年 12 月〜2020 年 4 月）
 
-   【プロジェクト概要】  
-   ブロックチェーン系 BtoC サービスの新規開発。開発環境（Ethereum）はパブリックチェーンの mainnet ではなく、AWS 上に複数の EC2 インスタンスを Blockchain Node 基盤としていた。コンセンサスアルゴリズムは PoA（Clique）、プライベートチェーンでの開発。
+   【プロジェクト概要】
 
-   【プログラミング言語/フレームワーク/ライブラリ】  
-   　 Ethereum, Geth, Solidity, Truffle, Web3.js, Node.js, Express.js, Vue.js
+   - ブロックチェーン技術を利用した BtoC サービスの受託開発
+   - ERC20 ベースで独自トークンを発行する機能があり、それを顧客自身の情報と交換する
+
+   【プログラミング言語/フレームワーク/ライブラリ/DB など】  
+   　 Javascript, Ethereum, Geth, Solidity, Truffle, Web3.js, Node.js, Express.js, Vue.js, Nuxt.js, Postgresql
 
    【担当分野・実装した機能・実装方法】
 
@@ -68,8 +112,8 @@
 
    ソースコード（GitHub）は[こちら](https://github.com/KeisakuHiga/FlexDappHoodie)。尚、このプロジェクトは、私がオーストラリア・メルボルンにあるブロックチェーンスタートアップにインターンシップしている際に参画したもの。
 
-   【プログラミング言語/フレームワーク/ライブラリ】  
-   Ethereum, Solidity, Truffle, web3.js, React, Infura
+   【プログラミング言語/フレームワーク/ライブラリ/DB など】  
+   Ethereum, Solidity, Truffle, Javascript, web3.js, React, Infura
 
    【担当分野・実装した機能・実装方法】  
    スマートコントラクトの設計・実装・テストまでを担当。
@@ -98,7 +142,7 @@
    【プロジェクト概要】  
    メルボルンにあるスイーツショップ向け商品予約管理システム開発プロジェクト。MERN スタック（MongoDB, Express.js, React, Node.js）学習課程の課題として、実際に顧客を探し、ヒアリングを行い、その顧客が抱える課題を Web アプリケーションで解決しようと取り組んだもの。ソースコード（GitHub）は[こちら](https://github.com/KeisakuHiga/cherrys-bake-shop)。
 
-   【プログラミング言語/フレームワーク/ライブラリ】  
+   【プログラミング言語/フレームワーク/ライブラリ/DB など】  
    HTML, CSS, Javascript, Node.js, Express.js, React, MongoDB
 
    【担当分野・実装した機能等\_使用技術】
@@ -125,7 +169,7 @@
    【プロジェクト概要】  
    Ruby / Ruby on Rails の学習課程の課題として、ツー・サイド・プラットフォーム Web サービス開発があり、個人間の金銭貸借 Web サービスを企画・開発に取り組んだプロジェクト。ソースコード（GitHub）は[こちら](https://github.com/KeisakuHiga/rails-project)。
 
-   【プログラミング言語/フレームワーク/ライブラリ】  
+   【プログラミング言語/フレームワーク/ライブラリ/DB など】  
    HTML, CSS, Bootstrap, Ruby, Ruby on Rails, Postgresql, AWS/S3, Heroku, Stripe
 
    【担当分野・実装した機能等\_使用技術】
