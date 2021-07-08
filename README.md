@@ -1,188 +1,36 @@
 # 経歴（2021 年 6 月更新）
+＊こちらから[履歴書](https://drive.google.com/file/d/1sO5afxoC7cO1ocmx1Q2fu8DkBFiRFLeW/view?usp=sharing)をご覧いただけます。
 
-## 基本情報
+### 学習した技術や読んだ本、オンラインコース
+2021年は幅広く技術や考え方を身に付けたいと思う。技術的なことからエンジニア組織についても。  
+フルスタックエンジニアで技術力が高くて、チームを牽引できて、ビジネスをプッシュアップできるようになりたい。
+フロント・バック・クラウド・チームビルディング・ビジネスなどを全般的に伸ばしたい。
 
-| 項目 | 概要         
-| ---- | ---
-| 名前 　　| 比嘉　恵作（ひが　けいさく） 
-| 生まれ   | 沖縄県読谷村 
-| 誕生日   | 1988年06月19日
-| 英語     | TOEIC=910(L=470,R=440), IELTS=6.5(R=7.0,L=6.0,W=6.0,S=6.0)   
-| Twitter          | https://mobile.twitter.com/khiga619
-| Qiita            | https://qiita.com/KeisakuHiga   
-| LinkedIn         | https://www.linkedin.com/in/keisakuhiga/
-| 趣味   | バスケ・ゴルフ・散歩・筋トレ・暗号資産・シストレ開発
-| 住んだ地域   | 沖縄→大阪→埼玉→ジャカルタ→メルボルン→東京→千葉（←今ここ）
-| 前職  | 2012年〜2018年に大手リース会社で金融営業に従事。建機、海外営業、インドネシア駐在。
+| 期間 | 学習対象 | 概要 |
+| - | - | - |
+| 2021/06 | [Udemy 米シリコンバレーDevOps監修！超Docker完全入門(2020)【優しい図解説とハンズオンLab付き】](https://www.udemy.com/course/linux-docker-compose-dockerfile-kanzennyumon/) | Dockerの基礎 |
+| 2021/06 | [Udemy 米シリコンバレーDevOps監修！超Kubernetes完全入門(2020)【優しい図解説とハンズオン】](https://www.udemy.com/course/kubernetes-docker-container-devops-kanzen-nyumon/) | Kubernetesの基礎 |
+| 2021/05〜06 | [その場でつかえる しっかり学べるUML2.0](https://www.amazon.co.jp/%E3%81%9D%E3%81%AE%E5%A0%B4%E3%81%A7%E3%81%A4%E3%81%8B%E3%81%88%E3%82%8B-%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E5%AD%A6%E3%81%B9%E3%82%8BUML2-0-%E3%82%AA%E3%83%BC%E3%82%B8%E3%82%B9%E7%B7%8F%E7%A0%94%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E5%BA%83%E5%A0%B4%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4798012394/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=UML2.0&qid=1622856437&s=digital-text&sr=1-2-catcorr) | UMLの基本 |
+| 2021/05〜06 | [達人に学ぶDB設計 徹底指南書](https://www.amazon.co.jp/%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6DB%E8%A8%AD%E8%A8%88-%E5%BE%B9%E5%BA%95%E6%8C%87%E5%8D%97%E6%9B%B8-%E3%83%9F%E3%83%83%E3%82%AF-ebook/dp/B00EE1XPAI/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3FYZ2HX789IMH&dchild=1&keywords=%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6db%E8%A8%AD%E8%A8%88&qid=1622856940&s=digital-text&sprefix=%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6%2Cdigital-text%2C243&sr=1-1) | データベース設計の基礎 |
+| 2021/05 | [ピープルウェア](https://www.amazon.co.jp/%E3%83%94%E3%83%BC%E3%83%97%E3%83%AB%E3%82%A6%E3%82%A8%E3%82%A2-%E7%AC%AC3%E7%89%88-%E3%83%88%E3%83%A0-%E3%83%87%E3%83%9E%E3%83%AB%E3%82%B3%EF%BC%9B%E3%83%86%E3%82%A3%E3%83%A2%E3%82%B7%E3%83%BC-%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%BC-ebook/dp/B00I96CJWO/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%94%E3%83%BC%E3%83%97%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2&qid=1622857311&s=digital-text&sr=1-1) | チームビルディング |
+| 2021/05 | [JavaScript本格入門](https://www.amazon.co.jp/%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88JavaScript%E6%9C%AC%E6%A0%BC%E5%85%A5%E9%96%80-%EF%BD%9E%E3%83%A2%E3%83%80%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AB%E3%82%88%E3%82%8B%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%AE%E5%BF%9C%E7%94%A8%E3%81%BE%E3%81%A7-%E5%B1%B1%E7%94%B0-%E7%A5%A5%E5%AF%9B-ebook/dp/B01LYO6C1N/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=avaScript%E6%9C%AC%E6%A0%BC%E5%85%A5%E9%96%80&qid=1622857276&s=digital-text&sr=1-1-spell) | JavaScriptの基礎 |
+| 2021/05 | [オブジェクト指向でなぜつくるのか](https://www.amazon.co.jp/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A7%E3%81%AA%E3%81%9C%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AE%E3%81%8B-%E7%AC%AC%EF%BC%93%E7%89%88-%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84OOP%E3%80%81%E8%A8%AD%E8%A8%88%E3%80%81%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E9%96%8B%E7%99%BA%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98-%E5%B9%B3%E6%BE%A4-%E7%AB%A0-ebook/dp/B092HDFJKK/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%5B%E3%81%AA%E3%81%9C%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AE%E3%81%8B&qid=1622857950&s=digital-text&sr=1-1) | オブジェクト指向 |
+| 2021/05 | [Udemy 現役シリコンバレーエンジニアが教えるGoで始めるスクラッチからのブロックチェーン開発入門](https://www.udemy.com/course/go-blockchain/) | Golang・ブロックチェーン構>築 |
+| 2021/05 | [Udemy 現役シリコンバレーエンジニアが教えるGo入門 + 応用でビットコインのシストレFintechアプリの開発](https://www.udemy.com/course/go-fintech/) | Golang・ビットコインのシストレ |
+| 2021/04 | [TeemGeek](https://www.amazon.co.jp/Team-Geek-%E2%80%95Google%E3%81%AE%E3%82%AE%E3%83%BC%E3%82%AF%E3%81%9F%E3%81%A1%E3%81%AF%E3%81%84%E3%81%8B%E3%81%AB%E3%81%97%E3%81%A6%E3%83%81%E3%83%BC%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%AE%E3%81%8B-Brian-Fitzpatrick/dp/4873116309) | チームビルディング |
+| 2021/04 | [SCRUM BOOT CAMP](https://www.amazon.co.jp/SCRUM-BOOT-CAMP-BOOK%E3%80%90%E5%A2%97%E8%A3%9C%E6%94%B9%E8%A8%82%E7%89%88%E3%80%91-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E9%96%8B%E7%99%BA-ebook/dp/B086GBXRN6/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=SCRUM+BOOT+CAMP%5D&qid=1622857292&s=digital-text&sr=1-2) | スクラム開発 |
+| 2021/03 | [リーダブルコード](https://www.amazon.co.jp/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89-%E2%80%95%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-Theory-practice-Boswell/dp/4873115655/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89&qid=1622857393&s=books&sr=1-1) | エンジニア的思考を鍛える |
+| 2021/02 | [Stateful vs Stateless Applications (Explained by Example)](https://www.youtube.com/watch?v=nFPzI_Qg3FU) | [Stateful vs Stateless](statefulVsStateless.md) |
+| 2021/02 ~ | [ゼロからわかる Amazon Web Services超入門](https://www.amazon.co.jp/dp/B07TFTGHMX/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) | AWS S3, EC2, RDS, Route53, SSL/TLS（>ロードバランサー、CloudFront）らへんを触る。[詳細はここ。](aws/ゼロからわかるAWS超入門.md) |
+| 2020/11 | [Webを支える技術](https://www.amazon.co.jp/Web%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-HTTP%EF%BC%8CURI%EF%BC%8CHTML%EF%BC%8C%E3%81%9D%E3%81%97%E3%81%A6REST-WEB-PRESS-plus-ebook/dp/B07JK7FZH2/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1VR2C714WNIAH&dchild=1&keywords=%E3%82%A6%E3%82%A7%E3%83%96%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93&qid=1625738697&sprefix=%E3%82%A6%E3%82%A7%E3%83%96%E3%82%92%2Cdigital-text%2C243&sr=8-1) | Web |
+| 2020/10 | [Vue.js&Nuxt.js超入門](https://www.amazon.co.jp/Vue-js-Nuxt-js%E8%B6%85%E5%85%A5%E9%96%80-%E6%8E%8C%E7%94%B0%E6%B4%A5%E8%80%B6%E4%B9%83-ebook/dp/B07X6F1C2P/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=vue+nuxt&qid=1625738646&s=digital-text&sr=1-1) | Vue/Nuxt |
+| 2020/02 | [知識ゼロから学ぶソフトウェアテスト](https://www.amazon.co.jp/%E7%9F%A5%E8%AD%98%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88-%E3%80%90%E6%94%B9%E8%A8%82%E7%89%88%E3%80%91-%E9%AB%98%E6%A9%8B%E5%AF%BF%E4%B8%80-ebook/dp/B00HQ7S5CA/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1Z51PHJVE8FN4&dchild=1&keywords=%E7%9F%A5%E8%AD%98%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88&qid=1625738571&s=digital-text&sprefix=%E7%9F%A5%E8%AD%98%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%2Cdigital-text%2C238&sr=1-1) | ソフトウェアテスト |
+| 2020/01 | [TCP/IPの絵本](https://www.amazon.co.jp/TCP-IP%E3%81%AE%E7%B5%B5%E6%9C%AC-%E7%AC%AC2%E7%89%88-%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%92%E5%AD%A6%E3%81%B6%E6%96%B0%E3%81%97%E3%81%849%E3%81%A4%E3%81%AE%E6%89%89-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%B3%E3%82%AF-ebook/dp/B07DZZ2DFQ/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=TCP%2FIP%E3%81%AE%E7%B5%B5%E6%9C%AC&qid=1625738399&s=digital-text&sr=1-1) | ネットワーク |
+| 2018/09 | [ブロックチェーン入門](https://www.amazon.co.jp/dp/B071NTBVPP/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) | ブロックチェーン |
 
-## 技術経験
-
-|              | プログラミング言語               | フレームワーク                       | DB         | OS             | ブロックチェーン関連 | ツール                                                                  |
-| ------------ | -------------------------------- | ------------------------------------ | ---------- | -------------- | -------------------- | ----------------------------------------------------------------------- |
-| 実務         | Typescript, Javascript, Solidity | Node.js, Express, Vue, Nuxt, Truffle | Postgresql | Windows, Linux | Ethereum, Geth       | Github, VS Code, Slack, Zoom, Asana, Confluence, Share Point(Office365) |
-| プライベート | Ruby                             | Ruby on Rails, React                 | MongoDB    | MacOS          | Ganache, Infura      | Trello, Discord, Figma                                                  |
-
-## 開発工程の経験
-
-|              | 要件定義 | 基本設計 | 詳細設計 | プログラミング       | テスト | 保守・運用 | デザイン(UI・UX) | インフラ | マネジメント | 手法               |
-| ------------ | -------- | -------- | -------- | -------------------- | ------ | ---------- | ---------------- | -------- | ------------ | ------------------ |
-| 実務         |   ▲      | ▲ ※1     | ◯        | フロント ◯ ※2, バック ◯ | ▲ ※3   | ▲          | ×                | ×        | ×            | スクラム開発、ウォーターフォール開発 |
-| プライベート | ◯        | ◯        | ◯        | フロント ◯, バック ◯ | ◯      | ×          | ◯                | ×        | ◯            | - |
-
-※1: 基本設計資料（画面遷移図、ER 図、テーブル定義書、API 一覧、項目定義一覧、コード値一覧）の追記・修正。  
-※2: HTML/CSSのコードはデザイナーさんが提供。それをVueコンポーネント化。またビジネスロジックの実装 （API繋ぎ込み含む）  
-※3: 単体テスト・結合テストはブラックボックスで実施。テストケースを洗い出し、手動で実施。
-
-## プロジェクト詳細
-
-1. ### 水産物トレーサビリティーアプリケーション開発プロジェクト （2020 年 10 月〜現在）
-
-   【プロジェクト概要】
-
-   - 水産物のトレーサビリティによりサステナブルな漁業を実現させることを目的としたプロジェクト。
-   - プログラミング言語はTypeScriptを採用し、フロントエンドに Vue.js、バックエンドに Node.js を活用し開発中。
-   - 開発メンバー体制
-      - 立ち上げフェーズ: 5名（2020年〜2021年02月＠ウォーターフォール開発）
-      - 直近: 2〜４名（2021年03月〜現在＠スクラム開発）
-
-   【プログラミング言語/フレームワーク/ライブラリ/DB など】  
-   　 Typescript, Node.js, Express.js, Vue.js, Nuxt.js, Postgresql
-
-   【担当分野・実装した機能・実装方法】
-   - 詳細設計・開発・単体テスト・結合テスト・リリースなど開発業務全般
-   - フロントエンド（Vue/Nuxt）
-      - 画面定義書作成
-      - 画面作成（動作ロジックのみ、HTML/CSSコードはデザイナー提供）
-      - 画面テスト
-   - バックエンド（Node）
-      - API仕様書作成
-      - API開発
-      - API単体テスト
-
-   【スクラム開発の動き（2 weeks）】
-      1. 前スプリントでプランニングしたバックログを優先度の高いものから開発メンバー同士コミュニケーションを取りながら消化
-      1. 朝会でPOと開発チームでminiバックログリファインメントを行って日々日々バックログ状況を確認
-      1. 要件定義についてはPOも開発チームから意見を吸い上げてくれるため多少は上流工程に携わる
-      1. スプリント２週目の半ばに次のスプリントに向けたバックログリファインメントをしっかり実施（タスク消化状況やPOの状況によって流動的にスケジューリング）
-      1. スプリント２週目の金曜は午前中にレビューとレトロスペクティブ、午後にプランニングを実施して、終業間際にスプリントを終了
-      1. 翌週月曜始業と共に新しいスプリントを開始  
-
-         ☆☆☆ 私は、各スクラムイベントの司会進行と、バックログ（Jira）へのタスク詳細の書き込み、スプリント途中で発生したタスクの追加を随時実施している。
-
-1. ### 某ブロックチェーンスタートアップの Dapps 受託開発（2019 年 12 月〜2020 年 4 月）
-
-   【プロジェクト概要】
-
-   - ブロックチェーン技術を利用した BtoC サービスの受託開発
-   - ERC20 ベースで独自トークンを発行する機能があり、それを顧客自身の情報と交換する
-
-   【プログラミング言語/フレームワーク/ライブラリ/DB など】  
-   　 Javascript, Ethereum, Geth, Solidity, Truffle, Web3.js, Node.js, Express.js, Vue.js, Nuxt.js, Postgresql
-
-   【担当分野・実装した機能・実装方法】
-
-   1. Ethereum、Solidity、web3.js の技術検証、PoA（Clique）のファイナリティの調査。
-   1. ブロックチェーン関連の API 呼び出しに関わるビジネスロジック、スマートコントラクトとのトランザクション関連のプログラム設計、実装、単体テストを担当。web3.js 使用。
-      Metamask などのウォレット使用を前提としない仕様で、秘密鍵は AWS/KMS で暗号化された状態で DB に保管する仕様であった。トランザックション発効の際には復号化された秘密鍵で署名するように実装。
-   1. Vue.js 使用したフロントエンド開発。管理者画面ページの API 埋め込みなどを一部実装。
-
-   【発揮したバリュー】  
-   スマートコントラクト、バックエンド、フロントエンドの３つの領域にまたがって幅広く開発工程に貢献した。この３領域のエンジニアメンバーと密にコミュニケーションしながら、ブロックチェーン関連機能の設計・実装・テストの工程を進められたのは大きなバリューになったと確信している。
-
-   【直面した技術的課題とその解決手法】
-
-   1. call メソッドはスマートコントラクト側で設定した例外メッセージを捕捉出来る一方、sendSignedTransaction メソッドは web3.js の仕様上不可能であった。保守運用フェーズにおけるスマートコントラクト関連のバグに対応する為の妥協案として、アプリケーションサーバーサイドでどのようなトランザクションを発行したかというログを残す仕様にして対応。
-   1. スマートコントラクトへのトランザクション発行時に使用する web3.js の estmateGas メソッド関連でトランザクションが発行できないバグに行き詰まった。試行錯誤末、スマートコントラクトの ABI からそのトランザクションが実行可能かを事前判断する仕様に気づく事ができ同バグを解消した。スマートコントラクト
-
-   【チーム構成】
-
-   - リードエンジニア１名
-   - インフラエンジニア２名
-   - スマートコントラクトエンジニア１名
-   - バックエンド＆フロントエンド４名（← 私はここ。）
-
-1. ### DeFi/Compound を活用した Dapps プロトタイプ開発（2019 年 9 月〜2019 年 10 月：インターンシップ）
-
-   【プロジェクト概要】  
-   Compound と rTokenContract を活用した DApp プロトタイプ開発プロジェクト。Compound にて StableCoin の一つである DAI を運用し、その運用で得られた利子が設定金額に到達した段階で同 DApp ユーザーはある商品を獲得出来るというサービス。開発環境（Ethereum）はパブリックチェーンの testnet（Rinkeby）を使用。
-
-   ソースコード（GitHub）は[こちら](https://github.com/KeisakuHiga/FlexDappHoodie)。尚、このプロジェクトは、私がオーストラリア・メルボルンにあるブロックチェーンスタートアップにインターンシップしている際に参画したもの。
-
-   【プログラミング言語/フレームワーク/ライブラリ/DB など】  
-   Ethereum, Solidity, Truffle, Javascript, web3.js, React, Infura
-
-   【担当分野・実装した機能・実装方法】  
-   スマートコントラクトの設計・実装・テストまでを担当。
-
-   【発揮したバリュー】
-
-   - はじめての Dapps 開発で、開発言語やフレームワークについても全くの未経験で、チームからのサポートもありながらではあったが、ほぼ独学で Dapps 開発手法を学習し 2 ヵ月でプロトタイプ完成まで至れた事。
-   - プロジェクト参画直後、リードエンジニアからプロトタイプの概要を伝えられた後、細かな仕様を自ら検討し、スマートコントラクトを設計・実装・テストまでの工程に対応した事。
-
-   【直面した技術的課題とその解決手法】
-
-   - 私の課題  
-     開発言語やフレームワーク、Compound や rTokenContract などの外部スマートコントラクトの活用など、Dapps 開発の基礎が全くのゼロからのスタートであったこと。
-
-   - 対応策  
-     まずはトークンを発行したり送付したりする簡単なスマートコントラクトを実装する事で基礎を固めた。そして、外部スマートコントラクトの仕様等については、公式ドキュメントや README などを注意深く読み込みながらプロトタイプ開発に反映させていくことを地道に行い、Dapps の開発手法を自分なりに確立した。
-
-   【チーム構成】
-
-   - リードエンジニア１名
-   - スマートコントラクトエンジニア 1 名（← 私はここ。）
-   - サポートエンジニア２名（← 開発には参画せず、私にサポートをくれました。）
-
-1. ### スイーツ予約管理システム開発プロジェクト（2019 年 7 月：プログラミングスクール、グループ課題）
-
-   【プロジェクト概要】  
-   メルボルンにあるスイーツショップ向け商品予約管理システム開発プロジェクト。MERN スタック（MongoDB, Express.js, React, Node.js）学習課程の課題として、実際に顧客を探し、ヒアリングを行い、その顧客が抱える課題を Web アプリケーションで解決しようと取り組んだもの。ソースコード（GitHub）は[こちら](https://github.com/KeisakuHiga/cherrys-bake-shop)。
-
-   【プログラミング言語/フレームワーク/ライブラリ/DB など】  
-   HTML, CSS, Javascript, Node.js, Express.js, React, MongoDB
-
-   【担当分野・実装した機能等\_使用技術】
-
-   - 担当分野：企画、要件定義、設計、実装（主にバックエンド）
-   - 実装した機能等：
-     1. ZEIT/Now（サーバー）、MongoDB Atlas（DB）及び Netlify（フロント）の開発環境のセッティングと本番環境へのデプロイメント
-     1. ログイン・ログアウト機能 - JWT
-     1. サーバーサイドでの Validation 機能 - Joi
-     1. データベース Entity Relationship Diagrams の作成
-     1. アプリケーション全体の設計（Client-Server-Database）
-
-   【発揮したバリュー】
-
-   - 実装工程において全般的にチームメイトをリードしプロジェクト推進した点。
-   - オーストラリア人のチームメイトと英語でプロジェクトに取り組んだ点。
-
-   【チーム構成】
-
-   - Web エンジニア 3 名（← 私はここ。）
-
-1. ### CtoC レンディング Web サービス開発プロジェクト（2019 年 5 月：プログラミングスクール、グループ課題）
-
-   【プロジェクト概要】  
-   Ruby / Ruby on Rails の学習課程の課題として、ツー・サイド・プラットフォーム Web サービス開発があり、個人間の金銭貸借 Web サービスを企画・開発に取り組んだプロジェクト。ソースコード（GitHub）は[こちら](https://github.com/KeisakuHiga/rails-project)。
-
-   【プログラミング言語/フレームワーク/ライブラリ/DB など】  
-   HTML, CSS, Bootstrap, Ruby, Ruby on Rails, Postgresql, AWS/S3, Heroku, Stripe
-
-   【担当分野・実装した機能等\_使用技術】
-
-   - 担当分野：企画、要件定義、設計、実装（フロントエンド＆バックエンド）
-   - 実装した機能：
-     1. ログイン・ログアウト機能及びアクセス制限機能の実装 - Devise|CanCanCan
-     1. 画像アップロード機能 - AWS S3
-     1. オンライン決済機能 - Stripe
-     1. データベース Entity Relationship Diagrams の作成
-
-   【発揮したバリュー】
-
-   - 企画から実装までの工程で全般的にチームメイトをリードしプロジェクト推進した点。
-   - 金融知識を活かして金銭貸借期間中の金利計算ロジックの実装部分で大きく貢献した点。
-   - オーストラリア人のチームメイトと英語でプロジェクトに取り組んだ点。
-
-   【チーム構成】
-
-   - Web エンジニア 2 名（← 私はここ。）
+### これから読みたい・勉強したいもの
+| 期間 | 学習対象 | 概要 |
+| - | - | - |
+| 未着手 | [AWS認定資格試験テキスト　AWS認定 クラウドプラクティショナー](https://www.amazon.co.jp/AWS%E8%AA%8D%E5%AE%9A%E8%B3%87%E6%A0%BC%E8%A9%A6%E9%A8%93%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88-AWS%E8%AA%8D%E5%AE%9A-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC-%E5%B1%B1%E4%B8%8B-%E5%85%89%E6%B4%8B-ebook/dp/B07QX45RXM/ref=pd_vtp_2?pd_rd_w=5Tts7&pf_rd_p=638bbfd4-45be-4377-9648-d1b79b701034&pf_rd_r=ZQ2GRFHRTR68KT4HBB7G&pd_rd_r=f98c07e4-4900-4a80-b1f5-3616c31ad5f4&pd_rd_wg=GyrXO&pd_rd_i=B07QX45RXM&psc=1) | AWS |
+| 未着手 | [徹底攻略 AWS認定 ソリューションアーキテクト](https://www.amazon.co.jp/dp/B08SGSD479/ref=sspa_dk_detail_1?language=ja_JP&pd_rd_i=B08SGSD479p13NParams&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOVhBRUMzQ1A3MVhNJmVuY3J5cHRlZElkPUEwMDEzMjA0QVJSWkVSSkNFVklCJmVuY3J5cHRlZEFkSWQ9QTJYTDFIMEFQUU5GVEImd2lkZ2V0TmFtZT1zcF9kZXRhaWwyJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ%3D%3D) | AWS |
+|  | []() |  |
