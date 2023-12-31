@@ -11,16 +11,20 @@
 - 現職のSBINFT株式会社には2021年10月に入社し、主に[SBINFT Market](https://sbinft.market/)と[SBINFT Mits](https://sbinft-mits.com)の開発と運用に従事している。
 
 ### ハードスキル
-- フロントエンド、バックエンドのどちらの実装タスクを難なく自走しながら詳細設計から単体テストまで行える
-- 開発業務、保守・運用業務内においてAWSのCloudWatch、CloudFront、Lambda、Amplify、パラメータストア、DynamoDB、IAM、EC2、ECS、ECRを使用しており、それぞれのサービスの基本的な操作ができる
+- フロントエンド、バックエンドのどちらの実装タスクを難なく自走しながら詳細設計から単体テストまで行える。また保守・運用業務でAWSの各種サービスの操作ができる。
+	- フロント: Next.js, Nuxt.js, Tailwind
+	- バック: Nest.js, Node.js
+	- スマートコントラクト: Ethereum, Hardhat, Truffle, Solidity
+	- その他: Github, Jira, Confluence, Slack, Figma
+	- AWS: CloudWatch, CloudFront, Lambda, Amplify, Parameter Store, DynamoDB, IAM, EC2, ECS, ECR
 - スクラムマスターとして、スクラム導入から開発プロセスの改善、各スクラムイベントの円滑な進行などを推し進めることができる
-- 社内の部門間協業を円滑に行うための継続的な改善活動を行うことができる
+	- 社内の部門間協業を円滑に行うための継続的な改善活動を行うことができる
 - 英語：ビジネスレベル
 	- TOEIC:	910	（2019年取得）
 	- IELTS:	6.5	（2019年取得）
-		- オーストラリア（メルボルン）	: 2018年〜2019年
+		- 2018年〜2019年にオーストラリア（メルボルン）に留学
 - インドネシア語：日常会話レベル
-	- インドネシア（ジャカルタ）		: 2014年〜2018年
+	- 2014年〜2018年にインドネシア（ジャカルタ）に駐在
 
 ### ソフトスキル
 - オープンマインドで誠実な態度で業務に取り組むことができる
@@ -208,7 +212,7 @@ Webエンジニア2名
 </details>
 
 <details>
-<summary>PT.SMFL Indonesia(2014/4~2018/3)</summary>
+<summary>PT.SMFL Leasing Indonesia(2014/4~2018/3)</summary>
 
 #### 概要
 三井住友ファイナンス＆リース株式会社のインドネシア現地法人での業務
