@@ -3,20 +3,19 @@
 - 氏名: 比嘉 恵作（HIGA Keisaku）
 - アカウント:
 	- GitHub: https://github.com/KeisakuHiga
-	- Qiita: https://qiita.com/KeisakuHiga
 	- X: https://twitter.com/khiga619
+	- note: https://note.com/higa_note/
+	- Qiita: https://qiita.com/KeisakuHiga
 
 ## 職歴概要
 - 2012年4月から三井住友ファイナンス＆リース株式会社で営業業務に6年間従事したのち、1年半のIT留学を経て2019年12月よりエンジニアとしてのキャリアをスタートさせた。
-- 現職のSBINFT株式会社には2021年10月に入社し、主に[SBINFT Market](https://sbinft.market/)と[SBINFT Mits](https://sbinft-mits.com)の開発と運用に従事している。
+- 現職のSBINFT株式会社には2021年10月に入社し、自社プロダクトの開発と運用に従事している。
 
 ### ハードスキル
-- フロントエンド、バックエンドのどちらの実装タスクを難なく自走しながら詳細設計から単体テストまで行える。また保守・運用業務でAWSの各種サービスの操作ができる。
-	- フロント: Next.js, Nuxt.js, Tailwind
-	- バック: Nest.js, Node.js
+- 主にバックエンド開発タスクを自走しながら推進でき、スマートコントラクトやフロントエンドの開発も対応できる
+	- バックエンド: Nest.js, Node.js
 	- スマートコントラクト: Ethereum, Hardhat, Truffle, Solidity
-	- その他: Github, Jira, Confluence, Slack, Figma
-	- AWS: CloudWatch, CloudFront, Lambda, Amplify, Parameter Store, DynamoDB, IAM, EC2, ECS, ECR
+	- フロントエンド: Next.js, Nuxt.js, Tailwind（JavaScript周りの実装が得意、HTMLとCSSは不得意）
 - スクラムマスターとして、スクラム導入から開発プロセスの改善、各スクラムイベントの円滑な進行などを推し進めることができる
 	- 社内の部門間協業を円滑に行うための継続的な改善活動を行うことができる
 - 英語：ビジネスレベル
@@ -30,6 +29,14 @@
 - オープンマインドで誠実な態度で業務に取り組むことができる
 - 他者との連携を意識した報連相や期日を意識したスケジュール管理など当たり前のことを当たり前にやれる
 
+### クリフトンストレングス上位資質（トップ5）
+私は以下５つの資質を持っている人間です。詳細は[こちら](https://drive.google.com/file/d/15b38HVIXJj0UxsKxB6M_gP-arK8oZLTq/view?usp=sharing)をご覧ください。
+- 責任感（Responsibility）
+- 規律性（Discipline）
+- 調和性（Harmony）
+- 成長促進（Developer）
+- 達成意欲（Achiever）
+
 ### 仕事のポリシー
 - 一緒に仕事をする人との関わり方は大事にしたいと常々考えている。人にはそれぞれ思いがあって興味関心も千差万別なのだから相手を尊重する態度で業務に取り組むことを心がけている。
 - 開発業務を中心にしながらも必要に応じてエンジニアの枠に拘らずプロダクトの価値を高めるためのムーブをしようと心がけている。
@@ -38,7 +45,7 @@
 自社プロダクト開発業務を中心に幅広い業務に従事している。
 - 主要技術：JavaScript, TypeScript, Node.js, Next.js, Nest.js, PostgreSQL, AWS, Docker, Blockchain(Ethereum / Polygon), IPFS, Solidity, Hardhat
 - 具体的な役割・業務：
-	- フロントエンド開発、バックエンド開発、スマートコントラクト開発を行うこと
+	- バックエンド開発、スマートコントラクト開発、フロントエンド開発を行うこと
 	- スクラムマスターとしてスクラム開発を円滑に進めるための事前準備・ファシリテーションを進めること
 	- チームリーダーとしてチケット管理を行いプロジェクトマネジメントを行うこと
 	- 他部門との業務連携の改善を推し進めること
